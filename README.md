@@ -9,3 +9,12 @@
 ## Ejecutar
 
 python speech.py
+
+
+### Recomendacion
+
+Crear un ambiente viertual
+
+python3 -m venv /path/to/new/virtual/environment
+
+Sustituir venv por cualquier otro nombre
