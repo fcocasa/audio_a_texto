@@ -1,7 +1,5 @@
 {
     "formato_entrada":"m4a",
-    "formato_salida":"wav",
     "audio_entrada":"videoplayback.m4a",
-    "audio_salida":"output.wav",
     "text_de_salida":"transcription.txt"
 }
