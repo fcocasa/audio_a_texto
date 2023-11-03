@@ -11,11 +11,14 @@
 ### Cambiar datos de data.json
 
 Por defecto estan estos valores:
+
+```
 {
     "formato_entrada":"m4a",
     "audio_entrada":"videoplayback.m4a",
     "text_de_salida":"transcription.txt"
 }
+```
 
 La salida generar 3 salidas:
 
