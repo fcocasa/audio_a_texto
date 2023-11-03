@@ -8,6 +8,8 @@
 
 ## Ejecutar
 
+Cambiar datos en data.json
+
 python speech.py
 
 
@@ -18,3 +20,8 @@ Crear un ambiente virtual
 python3 -m venv /path/to/new/virtual/environment
 
 Sustituir venv por cualquier otro nombre
+
+
+## Agregar puntuacion al texto
+
+pip install deepmultilingualpunctuation
