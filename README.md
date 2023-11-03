@@ -6,6 +6,8 @@
 
  - pip3 install pydub
 
+ - pip3 install deepmultilingualpunctuation
+
 ## Ejecutar
 
 ### Cambiar datos de data.json
