@@ -1,4 +1,4 @@
-## Que instalar:
+## Que instalar
 
  - pip3 install SpeechRecognition
 
