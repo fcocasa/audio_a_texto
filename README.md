@@ -22,7 +22,7 @@ Por defecto estan estos valores:
 }
 ```
 
-La salida generar 3 salidas:
+Se generan 3 salidas:
 
 - conversion del audio (si ya es .wav no cambia)
 - transcription.txt
