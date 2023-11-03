@@ -13,7 +13,7 @@ python speech.py
 
 ### Recomendacion
 
-Crear un ambiente viertual
+Crear un ambiente virtual
 
 python3 -m venv /path/to/new/virtual/environment
 
