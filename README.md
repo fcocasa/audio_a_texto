@@ -30,7 +30,7 @@ Se generan 3 salidas:
 
 transcription.txt -> es la transcripcion directa
 
-puntuado_transcription.txt -> a la transcripcion se le agrega puntuacion mediante un modelo de de NLP
+puntuado_transcription.txt -> a la transcripcion se le agrega puntuacion mediante un modelo de NLP
 
 ### Comando
 
