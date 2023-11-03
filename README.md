@@ -39,6 +39,12 @@ python speech.py
 
 Crear un ambiente virtual
 
+#### Instalar
+
 python3 -m venv /path/to/new/virtual/environment
 
 Sustituir venv por cualquier otro nombre
+
+#### Activar
+
+. venv/bin/activate
