@@ -27,6 +27,7 @@ La salida generar 3 salidas:
 - puntuado_transcription.txt
 
 transcription.txt -> es la transcripcion directa
+
 puntuado_transcription.txt -> a la transcripcion se le agrega puntuacion mediante un modelo de de NLP
 
 ### Comando
