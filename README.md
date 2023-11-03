@@ -1,10 +1,10 @@
 ## Que instalar:
 
-pip3 install SpeechRecognition
+ - pip3 install SpeechRecognition
 
-sudo apt install ffmpeg
+ - sudo apt install ffmpeg
 
-pip3 install pydub
+ - pip3 install pydub
 
 ## Ejecutar
 
