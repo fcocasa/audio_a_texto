@@ -1,3 +1,13 @@
+# Audio a Texto
+
+Este es un proyecto destinado a transcribir audio a texo.
+
+El resultado de la transcripcion incluye signos de puntuacion.
+
+Con la libreria *SpeechRecognition* se transforma el audio a texto plano.
+
+Con la libreria *deepmultilingualpunctuation* se le agregan signos de puntuacion.
+
 ## Que instalar
 
  - pip3 install SpeechRecognition
